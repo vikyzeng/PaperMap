@@ -6,3 +6,4 @@ Nodes in vector graph represent published papers. More information is available 
 
 ## Connection
 Connection between paper nodes represents the citation relationship between papers. The citation connection can be lightened by clicking the node.
+ ![image](https://github.com/vikyzeng/PaperMap/blob/master/image/PaperMap.png)
